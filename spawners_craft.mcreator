@@ -1,0 +1,232 @@
+{
+  "mod_elements": [
+    {
+      "name": "SpawnerShards",
+      "type": "item",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "spawner_shards"
+    },
+    {
+      "name": "Spawnershard",
+      "type": "recipe",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "spawnershard"
+    },
+    {
+      "name": "Spawner",
+      "type": "recipe",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "spawner"
+    },
+    {
+      "name": "Creeper",
+      "type": "recipe",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "creeper"
+    },
+    {
+      "name": "BlankEgg",
+      "type": "item",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "blank_egg"
+    },
+    {
+      "name": "Egg",
+      "type": "recipe",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "egg"
+    },
+    {
+      "name": "Cow",
+      "type": "recipe",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cow"
+    },
+    {
+      "name": "Gtast",
+      "type": "recipe",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "gtast"
+    },
+    {
+      "name": "Guardian",
+      "type": "recipe",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "guardian"
+    },
+    {
+      "name": "Phantom",
+      "type": "recipe",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "phantom"
+    },
+    {
+      "name": "Witherskeleton",
+      "type": "recipe",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "witherskeleton"
+    },
+    {
+      "name": "Zombie",
+      "type": "recipe",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "zombie"
+    },
+    {
+      "name": "Spider",
+      "type": "recipe",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "spider"
+    },
+    {
+      "name": "Slime",
+      "type": "recipe",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "slime"
+    },
+    {
+      "name": "Chicken",
+      "type": "recipe",
+      "sortid": 15,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "chicken"
+    },
+    {
+      "name": "EndMan",
+      "type": "recipe",
+      "sortid": 16,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "end_man"
+    },
+    {
+      "name": "Pig",
+      "type": "recipe",
+      "sortid": 17,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pig"
+    },
+    {
+      "name": "Magma",
+      "type": "recipe",
+      "sortid": 18,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "magma"
+    },
+    {
+      "name": "Shulker",
+      "type": "recipe",
+      "sortid": 19,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "shulker"
+    },
+    {
+      "name": "Skeleton",
+      "type": "recipe",
+      "sortid": 20,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "skeleton"
+    },
+    {
+      "name": "Rabbit",
+      "type": "recipe",
+      "sortid": 21,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "rabbit"
+    },
+    {
+      "name": "Squid",
+      "type": "recipe",
+      "sortid": 22,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "squid"
+    },
+    {
+      "name": "GlowSquid",
+      "type": "recipe",
+      "sortid": 23,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "glow_squid"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "zh_tw": {
+      "item.spawners_craft.spawner_shards": "生成籠碎片",
+      "item.spawners_craft.blank_egg": "地獄之蛋"
+    },
+    "zh_hk": {
+      "item.spawners_craft.spawner_shards": "生成籠碎片",
+      "item.spawners_craft.blank_egg": "地獄之蛋"
+    },
+    "en_us": {
+      "item.spawners_craft.spawner_shards": "Spawner Shards",
+      "item.spawners_craft.blank_egg": "Nether Egg"
+    },
+    "zh_cn": {
+      "item.spawners_craft.spawner_shards": "刷怪笼碎片",
+      "item.spawners_craft.blank_egg": "下界之蛋"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "spawners_craft",
+    "modName": "Spawners Craft",
+    "version": "1.1.0",
+    "author": "xia_xin",
+    "websiteURL": "https://center.mcmod.cn/91492/",
+    "license": "MIT License",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "modPicture": "egg_1",
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.18.2",
+    "credits": "https://www.mcmod.cn/author/26620.html",
+    "modElementsPackage": "net.sc.spawnerscraft",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202200115515
+}
