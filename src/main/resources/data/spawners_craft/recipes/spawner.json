@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "spawners_craft:spawner_shards"
+    },
+    "1": {
+      "item": "spawners_craft:spawner_shards"
+    },
+    "2": {
+      "item": "spawners_craft:spawner_shards"
+    },
+    "3": {
+      "item": "spawners_craft:spawner_shards"
+    },
+    "4": {
+      "item": "minecraft:nether_star"
+    },
+    "5": {
+      "item": "spawners_craft:spawner_shards"
+    },
+    "6": {
+      "item": "spawners_craft:spawner_shards"
+    },
+    "7": {
+      "item": "spawners_craft:spawner_shards"
+    },
+    "8": {
+      "item": "spawners_craft:spawner_shards"
+    }
+  },
+  "result": {
+    "item": "minecraft:spawner",
+    "count": 1
+  }
+}

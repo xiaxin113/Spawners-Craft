@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:magma_cream"
+    },
+    "1": {
+      "item": "minecraft:magma_cream"
+    },
+    "2": {
+      "item": "minecraft:magma_cream"
+    },
+    "3": {
+      "item": "minecraft:magma_cream"
+    },
+    "4": {
+      "item": "spawners_craft:blank_egg"
+    },
+    "5": {
+      "item": "minecraft:magma_cream"
+    },
+    "6": {
+      "item": "minecraft:magma_cream"
+    },
+    "7": {
+      "item": "minecraft:magma_cream"
+    },
+    "8": {
+      "item": "minecraft:magma_cream"
+    }
+  },
+  "result": {
+    "item": "minecraft:magma_cube_spawn_egg",
+    "count": 1
+  }
+}

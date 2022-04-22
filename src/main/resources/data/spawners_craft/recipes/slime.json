@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:slime_block"
+    },
+    "1": {
+      "item": "minecraft:slime_block"
+    },
+    "2": {
+      "item": "minecraft:slime_block"
+    },
+    "3": {
+      "item": "minecraft:slime_block"
+    },
+    "4": {
+      "item": "spawners_craft:blank_egg"
+    },
+    "5": {
+      "item": "minecraft:slime_block"
+    },
+    "6": {
+      "item": "minecraft:slime_spawn_egg"
+    },
+    "7": {
+      "item": "minecraft:slime_block"
+    },
+    "8": {
+      "item": "minecraft:slime_block"
+    }
+  },
+  "result": {
+    "item": "minecraft:slime_spawn_egg",
+    "count": 1
+  }
+}

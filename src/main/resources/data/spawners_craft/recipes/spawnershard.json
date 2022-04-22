@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " 1 ",
+    "345",
+    " 7 "
+  ],
+  "key": {
+    "1": {
+      "item": "minecraft:chain"
+    },
+    "3": {
+      "item": "minecraft:chain"
+    },
+    "4": {
+      "item": "minecraft:netherite_scrap"
+    },
+    "5": {
+      "item": "minecraft:chain"
+    },
+    "7": {
+      "item": "minecraft:chain"
+    }
+  },
+  "result": {
+    "item": "spawners_craft:spawner_shards",
+    "count": 1
+  }
+}

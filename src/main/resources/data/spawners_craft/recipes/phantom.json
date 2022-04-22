@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:phantom_membrane"
+    },
+    "1": {
+      "item": "minecraft:phantom_membrane"
+    },
+    "2": {
+      "item": "minecraft:phantom_membrane"
+    },
+    "3": {
+      "item": "minecraft:phantom_membrane"
+    },
+    "4": {
+      "item": "spawners_craft:blank_egg"
+    },
+    "5": {
+      "item": "minecraft:phantom_membrane"
+    },
+    "6": {
+      "item": "minecraft:phantom_membrane"
+    },
+    "7": {
+      "item": "minecraft:phantom_membrane"
+    },
+    "8": {
+      "item": "minecraft:phantom_membrane"
+    }
+  },
+  "result": {
+    "item": "minecraft:phantom_spawn_egg",
+    "count": 1
+  }
+}
