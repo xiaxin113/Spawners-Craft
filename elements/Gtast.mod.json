@@ -1,0 +1,46 @@
+{
+  "_fv": 27,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "Items.GUNPOWDER"
+      },
+      {
+        "value": "Items.GHAST_TEAR"
+      },
+      {
+        "value": "Items.GUNPOWDER"
+      },
+      {
+        "value": "Items.GHAST_TEAR"
+      },
+      {
+        "value": "CUSTOM:BlankEgg"
+      },
+      {
+        "value": "Items.GHAST_TEAR"
+      },
+      {
+        "value": "Items.GUNPOWDER"
+      },
+      {
+        "value": "Items.GHAST_TEAR"
+      },
+      {
+        "value": "Items.GUNPOWDER"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "Items.SPAWN_EGG#56"
+    },
+    "name": "gtast",
+    "namespace": "mod"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "_fv": 27,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "Items.SHULKER_SHELL"
+      },
+      {
+        "value": "Items.SHULKER_SHELL"
+      },
+      {
+        "value": "Items.SHULKER_SHELL"
+      },
+      {
+        "value": "Blocks.ENDER_CHEST"
+      },
+      {
+        "value": "CUSTOM:BlankEgg"
+      },
+      {
+        "value": "Blocks.ENDER_CHEST"
+      },
+      {
+        "value": "Items.SHULKER_SHELL"
+      },
+      {
+        "value": "Items.SHULKER_SHELL"
+      },
+      {
+        "value": "Items.SHULKER_SHELL"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "Items.SHULKER_SPAWN_EGG"
+    },
+    "name": "shulker",
+    "namespace": "mod"
+  }
+}

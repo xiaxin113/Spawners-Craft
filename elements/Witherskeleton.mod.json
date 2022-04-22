@@ -1,0 +1,46 @@
+{
+  "_fv": 27,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "Blocks.SKULL#1"
+      },
+      {
+        "value": "Blocks.SKULL#1"
+      },
+      {
+        "value": "Blocks.SKULL#1"
+      },
+      {
+        "value": "Items.NETHER_STAR"
+      },
+      {
+        "value": "CUSTOM:BlankEgg"
+      },
+      {
+        "value": "Items.NETHER_STAR"
+      },
+      {
+        "value": "Blocks.SKULL#1"
+      },
+      {
+        "value": "Blocks.SKULL#1"
+      },
+      {
+        "value": "Blocks.SKULL#1"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "Items.WITHER_SKELETON_SPAWN_EGG"
+    },
+    "name": "witherskeleton",
+    "namespace": "mod"
+  }
+}

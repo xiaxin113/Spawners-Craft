@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:feather"
+    },
+    "1": {
+      "item": "minecraft:chicken"
+    },
+    "2": {
+      "item": "minecraft:feather"
+    },
+    "3": {
+      "item": "minecraft:chicken"
+    },
+    "4": {
+      "item": "spawners_craft:blank_egg"
+    },
+    "5": {
+      "item": "minecraft:chicken"
+    },
+    "6": {
+      "item": "minecraft:feather"
+    },
+    "7": {
+      "item": "minecraft:chicken"
+    },
+    "8": {
+      "item": "minecraft:feather"
+    }
+  },
+  "result": {
+    "item": "minecraft:chicken_spawn_egg",
+    "count": 1
+  }
+}

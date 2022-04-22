@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:leather"
+    },
+    "1": {
+      "item": "minecraft:beef"
+    },
+    "2": {
+      "item": "minecraft:leather"
+    },
+    "3": {
+      "item": "minecraft:beef"
+    },
+    "4": {
+      "item": "spawners_craft:blank_egg"
+    },
+    "5": {
+      "item": "minecraft:beef"
+    },
+    "6": {
+      "item": "minecraft:leather"
+    },
+    "7": {
+      "item": "minecraft:beef"
+    },
+    "8": {
+      "item": "minecraft:leather"
+    }
+  },
+  "result": {
+    "item": "minecraft:cow_spawn_egg",
+    "count": 1
+  }
+}

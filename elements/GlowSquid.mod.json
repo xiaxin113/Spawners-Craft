@@ -1,0 +1,46 @@
+{
+  "_fv": 27,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "Items.GLOW_INK_SAC"
+      },
+      {
+        "value": "Items.DYE#0"
+      },
+      {
+        "value": "Items.GLOW_INK_SAC"
+      },
+      {
+        "value": "Items.GLOW_INK_SAC"
+      },
+      {
+        "value": "CUSTOM:BlankEgg"
+      },
+      {
+        "value": "Items.DYE#0"
+      },
+      {
+        "value": "Items.GLOW_INK_SAC"
+      },
+      {
+        "value": "Items.DYE#0"
+      },
+      {
+        "value": "Items.GLOW_INK_SAC"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "Items.GLOW_SQUID_SPAWN_EGG"
+    },
+    "name": "glow_squid",
+    "namespace": "mod"
+  }
+}

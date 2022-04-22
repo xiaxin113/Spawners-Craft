@@ -1,0 +1,46 @@
+{
+  "_fv": 27,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "Blocks.SLIME_BLOCK"
+      },
+      {
+        "value": "Blocks.SLIME_BLOCK"
+      },
+      {
+        "value": "Blocks.SLIME_BLOCK"
+      },
+      {
+        "value": "Blocks.SLIME_BLOCK"
+      },
+      {
+        "value": "CUSTOM:BlankEgg"
+      },
+      {
+        "value": "Blocks.SLIME_BLOCK"
+      },
+      {
+        "value": "Items.SPAWN_EGG#55"
+      },
+      {
+        "value": "Blocks.SLIME_BLOCK"
+      },
+      {
+        "value": "Blocks.SLIME_BLOCK"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "Items.SPAWN_EGG#55"
+    },
+    "name": "slime",
+    "namespace": "mod"
+  }
+}
